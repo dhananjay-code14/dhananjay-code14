@@ -2,7 +2,7 @@
 
 ### 🐍 Python Developer | Full-Stack Web Developer
 
-I’m a passionate developer who loves building real-world applications using Python and modern web technologies. I focus on learning by building projects, solving problems, and turning ideas into working solutions.
+I’m a passionate developer who loves building real-world applications using Python and modern web technologies. I focus on learning AI/ML and python by building projects, solving problems, and turning ideas into working solutions.
 
 ---
 
