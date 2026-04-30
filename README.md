@@ -11,7 +11,7 @@ I’m a passionate developer who loves building real-world applications using Py
 - 🔭 Developing real-world projects as a Python, AI/ML & Full-Stack developer  
 - 🌱 Working with:
   - Python (logic building, automation, backend development, ML Models)
-  - AI-tools, ML models & Automation projects
+  - AI-tools, websites(full stack)
   - Frontend development using HTML, CSS & JavaScript
   - Backend logic and project structuring
 - 🧠 Improving problem-solving and clean coding practices
